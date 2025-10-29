@@ -54,6 +54,7 @@ using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<OverTheGardenWallDbContext>();
     SeedData.Initialize(db);
+    db.Database.Migrate();
 }
 
 
