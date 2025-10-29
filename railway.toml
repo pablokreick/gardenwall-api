@@ -1,5 +1,10 @@
 [build]
+<<<<<<< HEAD
 nixpacks = { plan = "dotnet" }
+=======
+builder = "NIXPACKS"
+nixpacksPlan = "dotnet"
+>>>>>>> dcb859cfc5360ac6e69c527fa0ca7abaa68b0bed
 
 [start]
 cmd = "dotnet run --urls=http://0.0.0.0:${PORT}"
