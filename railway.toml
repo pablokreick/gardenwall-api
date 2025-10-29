@@ -2,4 +2,4 @@
 nixpacks = { plan = "dotnet", dir = "OverTheGardenWallAPI" }
 
 [start]
-cmd = "dotnet run --urls=http://0.0.0.0:${PORT}" --project OverTheGardenWallAPI
+cmd = "dotnet run --urls=http://0.0.0.0:${PORT}" --project OverTheGardenWallAPI/OverTheGardenWallAPI.csproj
