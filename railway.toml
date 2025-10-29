@@ -1,0 +1,6 @@
+[build]
+builder = "NIXPACKS"
+nixpacksPlan = "dotnet"
+
+[start]
+cmd = "dotnet run --urls=http://0.0.0.0:${PORT}"
