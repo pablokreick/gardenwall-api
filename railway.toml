@@ -1,5 +1,2 @@
 [build]
-nixpacks = { plan = "dotnet" }
-
-[start]
-cmd = "dotnet run --urls=http://0.0.0.0:${PORT}"
+builder = "docker"
