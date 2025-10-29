@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OverTheGardenWallAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf2b0ac416940fbd019a9c58eac7555a754f256e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39a9d5e6a8f81155634fab9327548166a4a41ffc")]
 [assembly: System.Reflection.AssemblyProductAttribute("OverTheGardenWallAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OverTheGardenWallAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
